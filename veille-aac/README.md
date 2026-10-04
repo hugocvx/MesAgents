@@ -2,7 +2,9 @@
 
 Veilles d’appels à publications / communications.
 
-## Études ibériques
+## Études ibériques (littérature)
+
+Périmètre retenu : **littératures** ibériques et latino-américaines (pas histoire, linguistique, arts visuels, séries, etc.).
 
 - Fichiers Markdown : `etudes-iberiques/YYYY-MM-DD.md`
 - Versions HTML (consultation navigateur) : `etudes-iberiques/YYYY-MM-DD.html` et `etudes-iberiques/index.html`
